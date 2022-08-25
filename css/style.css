@@ -1,0 +1,11 @@
+.color-boton {
+    background-color: yellow;
+    border: 2px black solid;
+}
+/* las clases en bootstrap son perfectamente modificables, se puede aprovechar la cascada para sobreescribir el css */
+.row {
+    justify-content: center;
+}
+.card {
+    border: 3px black solid;
+}
